@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303474192069",
+    "project_id": "seatch-firebase",
+    "storage_bucket": "seatch-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303474192069:android:8f4562f58754d25c2c4aac",
+        "android_client_info": {
+          "package_name": "com.example.searchfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303474192069-ufilk5r0hgglnohg4qp5i521f6qu6jfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALF0HpNigkj3VVWNHDuy0aY-Qt8PcO_CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303474192069-ufilk5r0hgglnohg4qp5i521f6qu6jfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
